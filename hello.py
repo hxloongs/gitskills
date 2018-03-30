@@ -1,1 +1,1 @@
-java -jar xxxxxx.jar
+java -jar xxxx
